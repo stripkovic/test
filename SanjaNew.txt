@@ -1,1 +1,2 @@
 Menjam GL da bih sinhronizovala posle dev sa ovom gl
+menjam ga u okviru dev da bih ga posle vratila u gl
