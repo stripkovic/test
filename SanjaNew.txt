@@ -1,0 +1,1 @@
+Menjam GL da bih sinhronizovala posle dev sa ovom gl
